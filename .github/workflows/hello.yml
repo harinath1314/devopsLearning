@@ -15,5 +15,5 @@ jobs:
       - name: Run Hello Script
         run: |
           echo "CI/CD is working!"
-          bash basics.txt
+          bash hello.sh
 
